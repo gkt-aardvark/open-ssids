@@ -2,3 +2,4 @@ Telcel Hotspot
 infinitum movil
 [STARBUCKS]
 CDMX METRO WIFI
+REGUSNETWIFI
