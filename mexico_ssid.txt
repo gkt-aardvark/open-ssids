@@ -1,5 +1,9 @@
 Telcel Hotspot
 infinitum movil
 [STARBUCKS]
+[WOW]
 CDMX METRO WIFI
 REGUSNETWIFI
+IZZI WiFi
+attguest
+att_clients
