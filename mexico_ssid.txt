@@ -5,5 +5,9 @@ infinitum movil
 CDMX METRO WIFI
 REGUSNETWIFI
 IZZI WiFi
+*.Megacable WiFi.*
+Megacable WiFi
 attguest
 att_clients
+MXConectado-E
+...McDonalds Free WiFi
