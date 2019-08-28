@@ -1,20 +1,20 @@
 CHT Wi-Fi(HiNet)
 .1.Free Wi-Fi
+Courtyard_GUEST
 TPE-Free
-Courtyard_GUEST 
 Sherwood_5GHz
-AS_Guest
 TAIPEI 101 Free WiFi
-iTaiwan 
+AS_Guest
+iTaiwan
 TPE-Free_CHT
-Airport Free WiFi
+AirportWiFi
 SKM-Free
+Airport Free WiFi
+Sherwood
 LANDIS TAIPEI
 Courtyard_PUBLIC
-Sherwood
 HotelCozzi
 CCPMANAGER
 @Hyatt_WiFi
+ibon Wi-Fi
 CCP-DCC
-Syntrend Free Wifi
-CCP-Guest
