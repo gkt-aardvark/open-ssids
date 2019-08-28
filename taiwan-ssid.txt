@@ -18,3 +18,13 @@ CCPMANAGER
 @Hyatt_WiFi
 ibon Wi-Fi
 CCP-DCC
+Syntrend Free Wifi
+TWM WiFi
+TANetRoaming
+CCP-Guest
+CCP
+CMH_Employee
+AirportWiFi(Low)
+FET Wi-Fi
+NOKIA-GUEST
+NewTaipeiBusWiFi
