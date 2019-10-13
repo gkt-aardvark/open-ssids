@@ -5,3 +5,4 @@ City Hall Guest
 GTU-GUEST
 McDonald's Guests
 Tbilisi Airport Free
+TBC-GUEST-WIFI
